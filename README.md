@@ -1,6 +1,6 @@
 # NextJS Basics Tutorial 
 ## About this Project
-This application is built by following the [next-auth](https://www.youtube.com/playlistlist=PLu71SKxNbfoCXO80Z4miZHTL5GxfFbz7A) playlist of HitechChoudhary sir on the channel [Chai aur Code](https://www.youtube.com/@chaiaurcode). The purpose of this project is to learn and demonstrate the basics of NextJS.
+This application is built by following the [next-auth](https://www.youtube.com/playlist?list=PLu71SKxNbfoCXO80Z4miZHTL5GxfFbz7A) playlist of HitechChoudhary sir on the channel [Chai aur Code](https://www.youtube.com/@chaiaurcode). The purpose of this project is to learn and demonstrate the basics of NextJS.
 
 ## What I Learned
 Through this application, I gained a solid understanding of the fundamentals of NextJS, including:
@@ -42,7 +42,6 @@ yarn dev
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-Video Demo: [Demo link]()
 
 ## Acknowledgments
 Special thanks to Hitesh sir for creating an excellent tutorial series on NextJS. This project would not have been possible without his tutorial.
